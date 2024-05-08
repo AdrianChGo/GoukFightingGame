@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\tiempo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:tiempo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\texturas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:texturas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\sonidos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:sonidos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\luces.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:luces.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\gestionHitbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:gestionHitbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\funcionesDibujo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:funcionesDibujo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\figuras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:figuras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\controles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:controles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\camaras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:camaras.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\animaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:animaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\macrosYTipeDef.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{408CA408-A27E-4F33-8943-67EFEDFB6507}|goukFightingGameV7.vcxproj|solutionrelative:macrosYTipeDef.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Adrian\\z. ingenier\u00EDa inform\u00E1tica\\2\u00BA a\u00F1o de ingenieria informatica\\2\u00BA Cuatri\\CoGa\\proyectosAutenticos\\CoGa\\practica4\\SistemaSolarCamaras3_3\\sistemaSolar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 423,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "funcionesDibujo.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\funcionesDibujo.cpp",
+              "RelativeDocumentMoniker": "funcionesDibujo.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\funcionesDibujo.cpp",
+              "RelativeToolTip": "funcionesDibujo.cpp",
+              "ViewState": "AQIAACcBAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gestionHitbox.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\gestionHitbox.cpp",
+              "RelativeDocumentMoniker": "gestionHitbox.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\gestionHitbox.cpp",
+              "RelativeToolTip": "gestionHitbox.cpp",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAAAFYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "luces.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\luces.cpp",
+              "RelativeDocumentMoniker": "luces.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\luces.cpp",
+              "RelativeToolTip": "luces.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "figuras.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\figuras.cpp",
+              "RelativeDocumentMoniker": "figuras.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\figuras.cpp",
+              "RelativeToolTip": "figuras.cpp",
+              "ViewState": "AQIAAJMPAAAAAAAAAAAAAKgPAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "controles.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\controles.cpp",
+              "RelativeDocumentMoniker": "controles.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\controles.cpp",
+              "RelativeToolTip": "controles.cpp",
+              "ViewState": "AQIAACkCAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAIwEAAAAAAAAAAAAAJkEAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sonidos.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\sonidos.cpp",
+              "RelativeDocumentMoniker": "sonidos.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\sonidos.cpp",
+              "RelativeToolTip": "sonidos.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "texturas.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\texturas.cpp",
+              "RelativeDocumentMoniker": "texturas.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\texturas.cpp",
+              "RelativeToolTip": "texturas.cpp",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tiempo.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\tiempo.cpp",
+              "RelativeDocumentMoniker": "tiempo.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\tiempo.cpp",
+              "RelativeToolTip": "tiempo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "camaras.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\camaras.cpp",
+              "RelativeDocumentMoniker": "camaras.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\camaras.cpp",
+              "RelativeToolTip": "camaras.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "animaciones.cpp",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\animaciones.cpp",
+              "RelativeDocumentMoniker": "animaciones.cpp",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\animaciones.cpp",
+              "RelativeToolTip": "animaciones.cpp",
+              "ViewState": "AQIAADoCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "macrosYTipeDef.h",
+              "DocumentMoniker": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\macrosYTipeDef.h",
+              "RelativeDocumentMoniker": "macrosYTipeDef.h",
+              "ToolTip": "C:\\Users\\Adri\u00E1n\\Desktop\\ProyectosGithub\\GoukFIghtingGame\\GoukFightingGameVersionFinal\\macrosYTipeDef.h",
+              "RelativeToolTip": "macrosYTipeDef.h",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAE4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T17:44:01.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sistemaSolar.cpp",
+              "DocumentMoniker": "E:\\Adrian\\z. ingenier\u00EDa inform\u00E1tica\\2\u00BA a\u00F1o de ingenieria informatica\\2\u00BA Cuatri\\CoGa\\proyectosAutenticos\\CoGa\\practica4\\SistemaSolarCamaras3_3\\sistemaSolar.cpp",
+              "ToolTip": "E:\\Adrian\\z. ingenier\u00EDa inform\u00E1tica\\2\u00BA a\u00F1o de ingenieria informatica\\2\u00BA Cuatri\\CoGa\\proyectosAutenticos\\CoGa\\practica4\\SistemaSolarCamaras3_3\\sistemaSolar.cpp",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAowIYBAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T17:44:01.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

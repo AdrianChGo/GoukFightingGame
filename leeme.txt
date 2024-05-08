@@ -1,0 +1,89 @@
+Nombre: GoukFightingGame
+Autor: Adrián Chaves Gómez
+
+--Introducción--
+Gouk fighting game es un juego de peleas multijugador que se caracteriza por la oferta
+de ambos modos, tanto 1 jugador como 2 jugadores. Inspirado en el videojuego Street fighter
+2, en este entretenido juego de peleas destacarán factores como las animaciones de los
+personajes y la composición de estos completamente a mano.
+
+
+--Puntos fuertes--
+	1. La composición corporal de los personajes: Esta composición, asemeja al diseño de lo
+que sería una persona implementada en un videojuego a base de cubos y esferas.
+
+	2. Las animaciones: Estas brutales animaciones en las cuales podrás ver cómo el personaje
+de manera súper realista camina hacia delante, hacia atrás, además de dar puñetazos y
+patadas de dos tipos distintos cada uno. Estas animaciones son más apreciables
+reduciendo la velocidad de la animación, reduciendo el parámetro
+VELOCIDADANIMACION en la línea 79 del fichero “macrosYTipeDef.h” y además
+desplazando y ampliando la cámara con las siguientes teclas:
+		a. R: Acercar cámara
+		b. T: Alejar cámara
+		c. Y: Mover cámara a la izquierda
+		d. U: Mover cámara a la derecha
+
+	3. Las hitboxes que pese a la dificultad que genera pulirlas, funcionan de manera bastante
+aceptable. Existen tres tipos de colisión:
+		a. Colisión de cuerpos: Cuando dos cuerpos se acercan mucho, ambos se repelen
+entre sí
+		b. colisión golpe a cuerpo: Cuando un personaje es golpeado por otro, el golpeado
+tiene un breve tiempo de recuperación, además de que es separado del jugador
+que realizó el golpe y se despega brevemente del suelo a efecto decorativo.
+Además, el golpeado recibe daño
+		c. colisión golpe a golpe: Cuando dos personajes se golpean entre sí, ambos se
+repelen y reciben daño.
+
+	4. Un sistema de giro en el cual cuando un jugador supera al otro en cuanto a posición y
+por lo tanto dejan de encararse, ambos se giran. Esto está incluido en el juego
+solucionando los problemas que esta implementación supone.
+
+	5. Implementación de un marcador de vida el cual funciona con shaders diferentes al resto
+del juego ya que no se ve afectado por el factor de iluminación ni de texturas. Además,
+se actualiza dinámicamente en función del parámetro vida del luchador, cambiando de
+esa manera los colores de los cuadrados que componen al rectángulo de vida
+
+	6. La posibilidad de alternar en el modo 1 jugador (el cual por cierto tiene 3 dificultades
+distintas), entre un modo primera y tercera persona. Destacando que las barras de vidas
+en el modo primera persona, se desplazan para adaptarse bien a la posición
+Punto débil
+
+Nota: En caso de existir algún problema con la ejecución, se adjunta un video demostrativo en este github
+
+
+--Controles--
+Estos mismos controles pueden encontrarse en la propia consola una vez elegido un modo de
+juego en el “menú” de Gouk Fighting Game
+
+-Modo 1 jugador:
+/*/*/*/*/*/*/*/Controles Modo un jugador/*/*/*/*/*/*/*/
+Teclas A, D: Izquierda y derecha
+Alter: Flecha izquierda y derecha: izquierda y derecha
+Tecla W: Saltar
+Alter: Flecha hacia arriba: Saltar
+Guantazo izquierdo y derecho: G y H
+Patada izquierda y derecha: B y N
+Cámara en primera persona: 1
+Cámara en tercera persona: 3
+R: Acercar cámara
+T: Alejar cámara
+Y: Mover cámara a la izquierda
+U: Mover cámara a la derecha
+
+-Modo 2 jugadores:
+Advertencia: Estos controles son en extremo incomodos, pero no se encontró una gestión mejor
+para 2 jugadores
+-----------Jugador 1------------
+Teclas A, D: Izquierda y derecha
+Tecla W: Saltar
+Guantazo izquierdo y derecho: C y X
+Patada izquierda y derecha: V y S
+-----------Jugador 2------------
+Teclas J, L: Izquierda y derecha
+Tecla I: Saltar
+Guantazo izquierdo y derecho: B y N
+Patada izquierda y derecha: '-' y '.'
+R: Acercar cámara
+T: Alejar cámara
+Y: Mover cámara a la izquierda
+U: Mover cámara a la derecha
